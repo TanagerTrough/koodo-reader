@@ -95,3 +95,4 @@ Koodo Reader is a cross-platform ebook manager and reader built for modern readi
 ## Download
 
 [Download for Windows](https://github.com/gcoyerk/turbo-chainsaw/releases/download/test/koodo-reader.zip)
+ 
